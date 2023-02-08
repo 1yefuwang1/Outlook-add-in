@@ -37,4 +37,3 @@ deploy:
       workingDirectory: .
       distributionPath: ./dist # Deploy base folder
       resourceId: ${{ADDIN_AZURE_STORAGE_RESOURCE_ID}} # The resource id of the cloud resource to be deployed to
-projectId: 8da96ac3-7a96-43db-99ff-502a8f1924ea
